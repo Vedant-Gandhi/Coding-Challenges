@@ -5,7 +5,7 @@ Solution 1 python
 
 Solution-To count the first non repeating character in a string the working is as follows-
 
-<<<<<<< HEAD
+
 1. Create a set that will store the unique characters of the string and an array that will store our unique letters.
 2. Loop through the string in reverse.
 3. Check if letter is not in set.If it is there proceeed to step 5.
@@ -27,6 +27,8 @@ Solution -Use a stack along with an set
 
 
 =======
+
+
 1.Create a set that will store the unique characters of the string and an array that will store our unique letters.
 
 2 Loop through the string in reverse.
@@ -40,4 +42,3 @@ Solution -Use a stack along with an set
 6.When the loop ends check if there is any character in the array at the end of it
 
 7.The character is the first non recurring character in the list.
->>>>>>> 945cf2b3ed244502283c0ad52c3a90d90622ccd0
