@@ -24,6 +24,8 @@ Solution -Use a stack along with an set
 5. Store the current letter in the stack.
 6. Check if the top of stack is current letter and if it is remove the letter from the stack.
 7. The letter at the top of the stack is your result.
+
+
 =======
 1.Create a set that will store the unique characters of the string and an array that will store our unique letters.
 
