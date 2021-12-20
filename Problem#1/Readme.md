@@ -1,6 +1,8 @@
 # Count the first non repeating character in a String.
 
 Time Complexity-O(n)
+
+
 Solution 1 python
 
 Solution-To count the first non repeating character in a string the working is as follows-
